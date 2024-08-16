@@ -1,0 +1,36 @@
+stylesheet.css //no change?
+header {
+    background-color: #f0f0f0; /* Light grey background */
+    padding: 20px;
+    text-align: center;
+}
+deader h1 {
+    color: #333; /* Dark grey color */
+}
+header p {
+    color: #666; /* Medium grey color */
+}
+.info {
+    background-color: #e0f7fa; /* Light cyan background */
+    padding: 20px;
+    margin: 20px;
+    text-align: center;
+}
+.info h2 {
+    color: #00796b; /* Teal color */
+    background-color: #b2dfdb; /* Light teal background */
+    padding: 10px;
+    border-radius: 5px;
+}
+.info h3 {
+    color: #004d40; /* Darker teal color */
+    background-color: #a7ffeb; /* Lighter teal background */
+    padding: 10px;
+    border-radius: 5px;
+}
+.info img {
+    max-width: 100%;
+    height: auto;
+    border: 2px solid #004d40; /* Border around the image */
+    border-radius: 5px;
+}
